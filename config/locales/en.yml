@@ -249,6 +249,7 @@ en:
       team_build2: 'Create Team'
       select_team: 'Select Team'
       create_agenda: 'Create Agenda'
+      delete_agenda: 'Delete Agenda'
       input_agenda_title: 'Input title'
       input_team_name: 'Input a team name'
       recent_posts: 'Recent Posts'
@@ -269,6 +270,7 @@ en:
       delete: 'Delete'
       create: 'Create'
       invite: 'Invite'
+      change_owner: 'Assign to owner'
     top:
       line1: 'it is an application to share a specific issue (agenda) easily'
       line2: 'for each member separately for each team or agenda'
